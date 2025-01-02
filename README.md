@@ -45,6 +45,6 @@ Get proxy: Thu thập proxy từ các nguồn công cộng và lưu chúng vào 
 Lọc proxy: Lọc danh sách proxy để chỉ giữ lại những proxy chất lượng, sau đó lưu chúng vào tệp mới.
 
 ---
-
+# Kết luận
 Công cụ proxy này giúp bạn dễ dàng thu thập và lọc các proxy, bảo vệ sự riêng tư và bảo mật khi duyệt web.
 
