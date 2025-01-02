@@ -48,7 +48,7 @@ Lọc proxy: Lọc danh sách proxy để chỉ giữ lại những proxy chất
 Công cụ proxy này giúp bạn dễ dàng thu thập và lọc các proxy, bảo vệ sự riêng tư và bảo mật khi duyệt web.
 
 ---
-# Nếu bạn có bất kỳ thắc mắc nào hoặc cần hỗ trợ, vui lòng liên hệ qua:
+Nếu bạn có bất kỳ thắc mắc nào hoặc cần hỗ trợ, vui lòng liên hệ qua:
 
 - [Gmail Me](mailto:tbinh831@gmail.com)
 - [Facebook Me](https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL)
